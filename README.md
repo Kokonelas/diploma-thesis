@@ -1,2 +1,2 @@
 # diploma-thesis
-Diploma Thesis for Computer Engineering &amp; Informatics Department, University of Patras | Intelligent energy networks and intelligent energy management in building operations
+Welcome to the repository of my Diploma Thesis at the Computer Engineering & Informatics Department (CEID), University of Patras.
